@@ -70,7 +70,7 @@ Inline codeblock
 
 Using images
 
-![Spartec logo](https://spartec.co.ke/wp-content/uploads/2022/06/sca-2.png)
+![GitHub Markdown](https://res.cloudinary.com/practicaldev/image/fetch/s--iyH_BO6K--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1mnjflq5zrcyg2av8biz.png)
 
 <!-- GitHub Markdown -->
 
@@ -98,6 +98,6 @@ Tables
 <!-- Task list -->
 
 - [x] Task one
-- [ ] Task one
-- [x] Task one
-- [ ] Task one
+- [ ] Task two
+- [x] Task three
+- [ ] Task four
